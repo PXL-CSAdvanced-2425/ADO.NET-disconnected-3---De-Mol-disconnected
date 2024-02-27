@@ -62,9 +62,8 @@ dtSpelers:
 4.  Afhankelijk van de status van de speler wordt de tekst in de
     respectievelijke kleur getoond in het profielvenster.
 
-// De mol kleur : #e0371d
-
-> // De niet mol kleur : #61f1f1
+> Mol kleur : #e0371d
+> Niet mol kleur : #61f1f1
 
 5.  Afhankelijk van de status van de ingelogde speler wordt de
     afbeelding aangepast:
